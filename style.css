@@ -6,6 +6,12 @@
   -ms-text-size-adjust: 100%;
 }
 
+#fixation {
+  margin: auto;
+  text-align: center;
+  vertical-align: middle;
+}
+
 .email_section table,
 .email_section td {
   mso-table-lspace: 0pt;
